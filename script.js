@@ -12,7 +12,7 @@ document.getElementById('specialty').addEventListener('change', function() {
       info = "Dr. Edlawit Worku - Internist<br>Available: Monday to Friday, 8:00am to 5:00pm, Saturdays 8:00am to 12:00pm<br>Walk-in only";
       break;
     case 'internal-medicine-sub':
-      info = "Dr. Akeza Teame - Infectious Disease Subspecialist<br>Available: Monday, Wednesday, Friday, 8:00am to 5:00pm<br>Walk-in only";
+      info = "Dr. Akeza Teame - Infectious Disease Subspecialist<br>Available: Monday, Wednesday, Friday, 8:30am to 12:00pm<br>Walk-in only";
       break;
     case 'cardiology':
       info = "Dr. Tigist Seleshi - Cardiologist (Adult)<br>Available: Wednesdays 1:00pm to 3:00pm, Saturdays 9:00am to 12:00pm<br>Walk-in only";
